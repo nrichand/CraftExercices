@@ -15,5 +15,5 @@ when I expect 4 shows.
 ## Bug 3
 
 When I calculate the basket price I get numbers with lot of decimals 
-when I expect a price with a format as following 256.00 (i.e. 2 decimals) 
+when I expect a price with a format as following 286.00 (i.e. 2 decimals) 
 
