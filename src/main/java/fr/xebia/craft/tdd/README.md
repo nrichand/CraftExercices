@@ -1,19 +1,9 @@
-# Challenge
+# FizzBuzz Challenge
 
-Fix the bugs in this order using TDD. Always write a test first before touching the code.
+Ecrire un programme qui affiche les nombres de 1 à 100.
+ 
+Pour chaque multiple de 3 écrire "Fizz" plutôt que le nombre. 
 
-## Bug 1
+Pour chaque multiple de 5 écrire "Buzz" plutôt que le nombre. 
 
-When I tried to retrieve the shows that are below or equal to 100 I get only 2 shows
-when there should be 3 shows.
-
-## Bug 2
-
-When I tried to retrieve the shows that are below or equal to 110 I get only 2 shows
-when I expect 4 shows.
-
-## Bug 3
-
-When I calculate the basket price I get numbers with lot of decimals 
-when I expect a price with a format as following 286.00 (i.e. 2 decimals) 
-
+Pour les nombres qui sont des multiples à la fois de 3 et de 5 écrire "FizzBuzz" plutôt que le nombre.
