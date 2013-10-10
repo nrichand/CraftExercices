@@ -5,12 +5,12 @@ Fix the bugs in this order using TDD. Always write a test first before touching 
 ## Bug 1
 
 When I tried to retrieve the shows that are below or equal to 100 I get only 2 shows
-when there should be 3 shows.
+when there should be 3 shows
 
 ## Bug 2
 
 When I tried to retrieve the shows that are below or equal to 110 I get only 2 shows
-when I expect 4 shows.
+when I expect 4 shows
 
 ## Bug 3
 
